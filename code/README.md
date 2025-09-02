@@ -1,17 +1,3 @@
-# MediSort | Mobile App Development
-[Jan 2025 - March 2025]
-
-## Brief Description
-A mobile application designed to streamline medication management by allowing users to sort, track, and receive reminders for their prescriptions, improving adherence and reducing errors.
-
-## Contributions
-Implemented the camera and image capture function for medication records, enabling users to upload photos of prescriptions and packaging. Developed the database integration for image storage, ensuring secure and efficient retrieval of medication records. Designed and implemented the bottom navigation bar for seamless app navigation. Contributed to the UI/UX design, enhancing usability and user experience.
-
-## Lessons Learnt
-Strengthened skills in mobile app development, particularly camera APIs, UI components, and database integration.
-
-__________________________________________________________________________________________________________________________________________
-
 # MediSort - A Mobile Medication Management App
 
 MediSort is a comprehensive mobile healthcare application designed to improve medication adherence and management for individuals who require reliable medication scheduling. The app provides intuitive medication tracking, personalized reminders, and adherence monitoring to help users maintain their medication regimens effectively.
