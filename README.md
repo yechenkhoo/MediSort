@@ -1,4 +1,4 @@
-# MediSort | Mobile App Development
+# MediSort Medicine Management App | Mobile App Development
 [Jan 2025 - March 2025]
 
 ## Brief Description
