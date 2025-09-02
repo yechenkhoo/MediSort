@@ -5,7 +5,13 @@
 A mobile application designed to streamline medication management by allowing users to sort, track, and receive reminders for their prescriptions, improving adherence and reducing errors.
 
 ## Contributions
-Implemented the camera and image capture function for medication records, enabling users to upload photos of prescriptions and packaging. Developed the database integration for image storage, ensuring secure and efficient retrieval of medication records. Designed and implemented the bottom navigation bar for seamless app navigation. Contributed to the UI/UX design, enhancing usability and user experience.
+Implemented the camera and image capture function for medication records, enabling users to upload photos of prescriptions and packaging. 
+
+Developed the database integration for image storage, ensuring secure and efficient retrieval of medication records. 
+
+Designed and implemented the bottom navigation bar for seamless app navigation. 
+
+Contributed to the UI/UX design, enhancing usability and user experience.
 
 ## Lessons Learnt
 Strengthened skills in mobile app development, particularly camera APIs, UI components, and database integration.
